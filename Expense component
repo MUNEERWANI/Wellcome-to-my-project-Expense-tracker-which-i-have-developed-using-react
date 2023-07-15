@@ -1,0 +1,15 @@
+function ExpenseItem(){
+    return(
+        <><h2>Expense item!</h2>
+        <p>food Rs 10</p>
+        <pre>Petrol Rs    100
+            
+        Movies Rs 200</pre>
+        </>
+    );
+    
+       
+
+    
+}
+export default ExpenseItem;
